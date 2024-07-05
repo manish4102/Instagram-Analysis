@@ -33,4 +33,7 @@ Welcome to **InstaTrend Analytics**! This project focuses on harnessing the powe
 - **Matplotlib** 📈: For creating detailed and insightful plots.
 - **Seaborn** 🌊: For advanced statistical visualizations.
 
+<img width="1208" alt="Screenshot 2024-07-05 at 11 20 35 AM" src="https://github.com/manish4102/Instagram-Analysis/assets/91743234/fd18adea-d51e-4a6b-8a3c-4454805faac3">
+<img width="1166" alt="Screenshot 2024-07-05 at 11 20 49 AM" src="https://github.com/manish4102/Instagram-Analysis/assets/91743234/cb1a9cef-3f01-4b2d-bcbc-4085a8cf53e4">
+
 
